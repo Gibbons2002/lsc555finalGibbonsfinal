@@ -1,12 +1,5 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-<title>Library Search Tools and Calvert Library website</title>
-<meta name="keywords" content="… add your keywords …" />
-<meta charset= "UTF-8" />
-
-
-<h2>Library Search Tools</h2> 
+﻿
+<h2>Library Search Tools and Website</h2> 
 </p>
 <p>
 <h2>LSC 555 final project</h2> 
