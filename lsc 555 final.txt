@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Library Search Tools and Calvert Library website</title>
+<meta name="keywords" content="… add your keywords …" />
+<meta charset= "UTF-8" />
+
+
+<h2>Library Search Tools</h2> 
+</p>
+<p>
+<h2>LSC 555 final project</h2> 
+</p>
+<p>Emily Gibbons </p>
+<p>
+<h4>Introduction</h4> 
+</p>
+</body>
+</html>
+</p>
+<p>
+<p style="text-indent: 30px;">
+        For the project, I always thought that search tools used on library web sites and evaluating those websites are an important part of using the tool. I plan on evaluating both parts of the website to see how it holds up for users to explore. 
+  
+
+        <img src=”IMG jpeg” alt= “Calvert Home Page”
+Library websites are an important part of how patrons access books and other resources that the library provides. This project brings in the library system of Calvert Library and the branches in eastern Maryland along with how their search tools can be used by a patron. Analyzing the website can help patrons know what the library provides while at the same time, allowing them to access resources and events listed under the tabs. 
+Calvert Library mission statement https://calvertlibrary.info/about-us/board-of-trustees/calvert-library-equity-statement/
+
+
+</p>
+<p style="text-indent: 30px;">
+Search tools are a major part of library systems across the country and the world as they help patrons find what books they are looking for. Meta search engines are used to search multiple entries at once, they are expected to return more comprehensive and relevant results in a more efficient way. In terms of library search engines, they are considered facets. Facets are attributes of an object, categories, mutually exclusive and contain controlled vocabulary elements. 
+</p>
+<p>
+<h4>Background</h4>
+<p style="text-indent: 30px;">
+Calvert Library is a library system in eastern Maryland that has many branches spread out for users to explore and visit. Calvert Library operates on honest discourse, civility and respect in all branches. 
+</p>
+<h4>Objective</h4> 
+<p style="text-indent: 30px;">
+I plan on accessing and analyzing the website with their tabs and search tool part of the website to see how it holds up for a user like me to understand. The library takes advantage of the tabs on the website while also allowing users to access the search engine to find what they are looking for.  
+</p>
+<p style="text-indent: 30px;">
+The type of search I plan on discussing in terms of libraries are facets as all libraries use it for search features and help patrons find books. I plan on comparing and contrasting the different search tools used in public and academic libraries and how they compare. 
+I also plan on analyzing the Calvert Library website and give my opinions on the site as a whole. While also using the nelson heuristics guidelines discussed during the semester. These can range from the aesthetic of the system to the help and documentation. 
+</p>
+<p style="text-indent: 30px;">
+During the semester, search tools were discussed during week 11 as an important part of how they are a good way of future development in libraries. One of the examples brought up in terms of search engines was the CUA library engine and how it is important for patrons to use. In terms of search engines, there are pros and cons with using them. And also how to evaluate websites to meet the user’s needs going forward in terms of heuristics. 
+</p>
+<p style="text-indent: 30px;">
+
+
+In terms of the pros and cons listed for both faceted and meta search engines, they cover lots of ground while also being based on a rank strategy. The pros for facet search engines are that individual search engines don’t cover all the web by themselves, less effort and provides a bigger picture. While on the other end, the cons are ranking strategy and combining data in multiple formats. Together, these bring out how faceted search engines are the main reason why libraries use them. 
+For the website portion of the heuristics, the website follows the heuristics up to date and could not find any issues present with the site. The website had the ability for the user to change their language, fast load times and control freedom if the user makes a mistake. 
+</p>
+<p style="text-indent: 30px;">
+
+
+Calvert Library as a whole uses Cosmos for their faceted search engine or the Collection of Southern Maryland’s Online Service. This faceted search engine also uses southern Maryland regional library association all within the tool. This tool also has the ability for the user to change the language of the device while also showing ways to support the local library within the area. 
+  
+
+<img src” IMG jpeg
+</p>
+<p style="text-indent: 30px;">
+Faceted search engines for libraries strive on what the user is looking for while at the same time pushing for success. Written in the article, How Users Search the Library for a Single Search Box by J. Boyer, C. Lown, and T. Sierra. In the text, “Although libraries aspire to provide affective and easy to use search interfaces, they have achieved mixed success” (Boyer, Lown, Sierra, 277, 2013). In terms of search engines being a main part of libraries around the world, they often do not have the best success rates. 
+</p>
+<h4>Public library search tools</h4> 
+<p style="text-indent: 30px;">
+One example of primary search tools in public libraries is Calvert Library and how their search system is used by patrons. When I searched for the book Red Queen by Victoria Aveyard in the search engine, there were 288 options and 10 per page. I then narrowed down my search to Calvert, Twin Beach branch in North Beach, Maryland and the search results went down. Narrowing down the search helps the user find the book that they are looking for. I was able to find the book Red Queen by Victoria Aveyard after narrowing down my search in the COSMOS tool on the website.
+  
+
+<img src=”IMG jpeg” alt= “Red Queen 2”
+  
+
+<img src="IMG_6135.jpeg" alt= "Red Queen found" width="3024" height="4032">
+
+
+</p>
+<h4>Website analysis</h4> 
+<p style="text-indent: 30px;">
+        Calvert Library has many tabs for the user to access while searching the website for something that they are looking for. On the website, some of the tabs are ‘using the library’, ‘research and learn’ and ‘events and classes’, along with many others. On those tabs, there are subtabs that narrow down the search results. 
+  
+
+<img src” “IMG. jpeg
+  
+
+<img src=”IMG jpeg” alt= “Calvert Search and Learn”
+
+
+</p>
+<h4>Recommendations</h4>
+        For the recommendations part of the project, I did not find any recommendations as the website follows the list of heuristics based on speed, design and user ability. 
+<h4>Conclusion</h4>
+</p>
+<p style="text-indent: 30px;">
+While using library search tools for the project, I found the tool to be an easy experience in terms of trying to find books. During the search, I was able to find the book I was looking for, while at the same time striving on the differences between faceted and meta search engines. 
+</p>
+<p style="text-indent: 30px;">
+While also using the website portion of the project, I did not have any issues looking on the website under the tabs. I found that the tabs can help patrons find the events or resources that they are looking for as a whole, while at the same time bringing the results that they want. 
+</p>
+<image>
+<img src="IMG_6135.jpeg" alt= "Red Queen found" width="3024" height="4032">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4>References</h4>
+Burke, J. J., & Tumbleson, B. E. (2016). Search systems and finding tools. Library Technology Reports, 52(2), 17-22,2. Retrieved from https://www.proquest.com/scholarly-journals/search-systems-finding-tools/docview/1768314203/se-2
+
+
+
+
+Lown, C., Sierra, T., & Boyer, J. (2013). How Users Search the Library from a Single Search Box. College & Research Libraries, 74(3), 227–241. https://doi.org/10.5860/crl-321
+
+
+
+
+Mi, J., & Weng, C. (2008). Revitalizing the library OPAC: Interface, searching, and display challenges. Information Technology and Libraries, 27(1), 5-22. Retrieved from https://www.proquest.com/scholarly-journals/revitalizing-library-opac-interface-searching/docview/215828237/se-2
+
+
+https://calvertlibrary.info/#reciteme
